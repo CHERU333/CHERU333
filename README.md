@@ -5,14 +5,6 @@
 [![](https://img.shields.io/badge/-@cheru__jp-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/cheru__jp)
 [![](https://img.shields.io/badge/-@cheru333-%23181717?style=flat-square&logo=github)](https://github.com/cheru333)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=cheru.jp&url=https://cheru.jp)](https://cheru.jp)
-<p align="left">
-  <a href="https://github.com/cheru333/cheru333/">
-    <img src="https://komarev.com/ghpvc/?username=cheru333" alt="cheru333" />
-  </a>
-  <a href="https://github.com/cheru333">
-    <img height="20" src="https://img.shields.io/github/followers/cheru333?label=follow&logo=github&style=flat" />
-  </a>
-</p>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 #### Language
