@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/-@cheru__jp-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/cheru__jp)
 [![](https://img.shields.io/badge/-@cheru333-%23181717?style=flat-square&logo=github)](https://github.com/cheru333)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=cheru.jp&url=https://cheru.jp)](https://cheru.jp)
-
+<!--
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 #### Language
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -25,14 +25,14 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-gray?style=flat-square&logo=ubuntu)
 ![RaspberryPi](https://img.shields.io/badge/Raspberry-%23A22846?style=flat-square&logo=raspberryPi)
 
-
+-->
 
 <!--
 #### Middleware
 
 ![Caddy](https://img.shields.io/badge/Caddy-black?style=flat-square&logo=caddy)
 -->
-
+<!--
 
 #### Editor, IDE
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
@@ -43,4 +43,4 @@
 ![AWS](https://img.shields.io/badge/aws-%23232F3E?style=flat-square&logo=amazon-aws)
 ![GitHub](https://img.shields.io/badge/github-%23181717?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
-
+-->
