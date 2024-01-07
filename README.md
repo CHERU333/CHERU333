@@ -14,31 +14,33 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 #### Framework
-![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/React-gray?style=flat-square&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 
 #### OS
-<p align="left">
-<img src="https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat">
-<img src="https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat">
-<img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat">
-<img src="https://img.shields.io/badge/-Debian-A81D33.svg?logo=debian&style=flat">
-<img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat">
-</p>
+![MacOS](https://img.shields.io/badge/macos-%23000000?style=flat-square&logo=apple)
+![Windows](https://img.shields.io/badge/windows-blue?style=flat-square&logo=windows)
+![Linux](https://img.shields.io/badge/linux-lightgray?style=flat-square&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-gray?style=flat-square&logo=ubuntu)
+![RaspberryPi](https://img.shields.io/badge/Raspberry-%23A22846?style=flat-square&logo=raspberryPi)
 
+
+
+<!--
 #### Middleware
-<p align="left">
-<img src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat">
-<img src="https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat">
-</p>
+
+![Caddy](https://img.shields.io/badge/Caddy-black?style=flat-square&logo=caddy)
+-->
+
 
 #### Editor, IDE
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Vim](https://img.shields.io/badge/Vim-darkgreen?style=flat-square&logo=vim)
+
 
 #### Cloud, Other
-<p align="left">
-<img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat">
-<img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
-<img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
-</p>
+![AWS](https://img.shields.io/badge/aws-%23232F3E?style=flat-square&logo=amazon-aws)
+![GitHub](https://img.shields.io/badge/github-%23181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
+
